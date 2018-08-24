@@ -1,0 +1,2 @@
+usr/local/bin/faustd usr/bin
+usr/local/bin/faust-cli usr/bin

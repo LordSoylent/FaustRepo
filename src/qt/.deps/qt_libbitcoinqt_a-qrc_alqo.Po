@@ -1,0 +1,4 @@
+qt/qt_libbitcoinqt_a-qrc_faust.o: qt/qrc_faust.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
